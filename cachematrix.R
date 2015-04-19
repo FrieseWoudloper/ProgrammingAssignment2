@@ -1,5 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
+## With these functions you are able to cache the potentially time-consuming computations of inverse matrices. 
 
 ## The function makeCacheMatrix creates a special 'matrix', 
 ## which is really a list of functions:
